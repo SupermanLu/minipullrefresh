@@ -1,0 +1,3 @@
+<!--pages/testComponent/testComponent.wxml-->
+<minirefresh url="https://minirefresh.github.io/minirefresh/examples/ajax/data/listdata1.json" params="{{params}}" id="minirefresh" bind:itemclick="itemclick" pageSize="20" pageIndexParam="page">
+</minirefresh>

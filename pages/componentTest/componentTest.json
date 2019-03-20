@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "minirefresh": "/components/minirefresh/minirefresh"
+  },
+  "enablePullDownRefresh": true
+}

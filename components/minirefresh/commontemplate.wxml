@@ -1,0 +1,3 @@
+<template name="listTemplate">
+  <view class="list-item" data-guid="{{item.id}}" bindtap="itemclick">{{item.title}}</view>
+</template>

@@ -1,0 +1,5 @@
+<import src="commontemplate.wxml" />
+<view class="listdata" wx:for="{{listdata}}" wx:for-item="item" wx:for-index="idx">
+  <template is="{{templateName}}" data="{{item}}">
+  </template>
+</view>
